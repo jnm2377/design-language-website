@@ -1098,9 +1098,9 @@
     prop-types "^15.7.2"
 
 "@carbon/pictograms@^11.0.0":
-  version "11.0.0"
-  resolved "https://registry.npmjs.org/@carbon/pictograms/-/pictograms-11.0.0.tgz#51029a6ee259dd2dbfc869c8f62e3c45926ee855"
-  integrity sha512-2vEpklUxjMMsBLUrX/PaScOVtX2I6Dh1V7HxkER0Jmk+7o3bN0PW1+qrO2ifwfs276qKeTnAw8SNz40UfkrWPQ==
+  version "11.8.0"
+  resolved "https://registry.yarnpkg.com/@carbon/pictograms/-/pictograms-11.8.0.tgz#f1d9a768cd7415dad0938908f464e6dadcd764e1"
+  integrity sha512-5QTP8WApn/+Mwa/Gybz3sLA7CELi6hzcSIWcpIxLY0RpqX0Bj9gXVtDBfMCc8jIy5AzAmxpuSdCfrLrMPiTZ6w==
 
 "@carbon/themes@^10.19.0", "@carbon/themes@^10.20.0":
   version "10.21.0"
